@@ -1,0 +1,8 @@
+{
+  "levels": [
+    {
+      "name": "Chrissy Wake Up",
+      "source": "levels/chrissy_wake_up/level.json"
+    }
+  ]
+}
